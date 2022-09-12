@@ -53,9 +53,12 @@ open the GraphQL interface like so:
 ```
 http://localhost:8000/graphql/
 ```
-Run some Queries (Hit CTRL+SPACE to see suggestions)
+### Run some Queries (Hit CTRL+SPACE to see suggestions)
 
-![image](https://user-images.githubusercontent.com/52819910/189773807-231adc8e-8ece-42c3-9efc-e3f83565c5b5.png)
+![image](https://user-images.githubusercontent.com/52819910/189773976-cb60e8d6-ce83-4bbc-b5bf-0ecccd685564.png)
+
+
+### Hit "Play" to execute Query
 
 ```
 {
