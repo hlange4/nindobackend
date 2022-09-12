@@ -57,5 +57,7 @@ Run some Queries (Hit CTRL+SPACE to see suggestions)
 
 
 Additional Documentation:
+
 https://docs.graphene-python.org/projects/django/en/latest/
+
 https://docs.djangoproject.com/en/3.2/
