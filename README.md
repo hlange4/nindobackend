@@ -15,7 +15,9 @@ It also comes with a variety of Plugins (for this demo a GraphQL-Plugin was used
 
 
 ## Setup
-prepare your venv from requirements.txt:
+A virtual Python environment is advised.
+
+From requirements.txt install pip packages:
 ```
 pip install -r requirements.txt
 ```
