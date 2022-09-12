@@ -55,7 +55,24 @@ http://localhost:8000/graphql/
 ```
 Run some Queries (Hit CTRL+SPACE to see suggestions)
 
-![image](https://user-images.githubusercontent.com/52819910/189770786-0e28faf8-7a34-4842-b376-ad439218bd38.png)
+![image](https://user-images.githubusercontent.com/52819910/189773807-231adc8e-8ece-42c3-9efc-e3f83565c5b5.png)
+
+```
+{
+  channels(search: "Rewi") {
+    instagramdetail {
+      averageLikes
+    }
+  }
+  coupons {
+    terms
+    code
+    artist {
+      name
+    }
+  }
+}
+```
 
 
 Additional Documentation:
